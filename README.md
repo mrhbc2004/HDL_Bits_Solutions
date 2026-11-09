@@ -1,5 +1,10 @@
 # HDL_Bits_Solutions
-This repository consists of solutions to most of the problems in HDLBits. 
+## Complete HDLBits Verilog Solutions | Digital Logic & RTL Design
+A comprehensive collection of HDLBits solutions covering all major categories of Verilog and digital logic problems, including Combinational Logic, Sequential Logic, Basic Gates, Arithmetic Circuits, Finite State Machines (FSMs), Counters, Shift Registers, and more.
+
+Each solution is organised by topic and problem, with clean Verilog code and explanations to help students understand the design approach.
+
+A learning resource for VLSI enthusiasts, electronics students, and aspiring RTL design and verification engineers.
 
 # File Tree
 
